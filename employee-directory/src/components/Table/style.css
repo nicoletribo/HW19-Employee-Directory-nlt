@@ -1,0 +1,20 @@
+thead {
+  background-color: slategray;
+}
+.table-responsive {
+  height: 400px;
+  width: 100%;
+  overflow: scroll;
+}
+
+.downArrow {
+  width: 0;
+  height: 10;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 10px solid;
+  margin-top: 50px;
+  position: relative;
+  top: 16px;
+  left: 10px;
+}
